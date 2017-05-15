@@ -1,0 +1,6 @@
+c:\users\zxygh\documents\visual studio 2017\Projects\maze\maze\obj\Debug\maze.csprojResolveAssemblyReference.cache
+c:\users\zxygh\documents\visual studio 2017\Projects\maze\maze\bin\Debug\maze.exe.config
+c:\users\zxygh\documents\visual studio 2017\Projects\maze\maze\bin\Debug\maze.exe
+c:\users\zxygh\documents\visual studio 2017\Projects\maze\maze\bin\Debug\maze.pdb
+c:\users\zxygh\documents\visual studio 2017\Projects\maze\maze\obj\Debug\maze.exe
+c:\users\zxygh\documents\visual studio 2017\Projects\maze\maze\obj\Debug\maze.pdb
